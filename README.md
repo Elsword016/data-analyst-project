@@ -6,6 +6,7 @@ This is my self-learning roadmap for data science. I mainly focus on healthcare-
 - Exploratory Data Analysis and inferences from them
 - Using ML algorithms to predict
 - A rich annotation to follow along
+- Model deployment mainly using Python-Streamlit
 
 ## Dependencies
 
@@ -15,4 +16,5 @@ All the projects are written using Python and its dependencies on the Jupyter No
 - Matplotlib
 - Seaborn
 - Ploty,express(less use case but definitely a good one)
+- Streamlit
 
